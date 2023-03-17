@@ -1,0 +1,7 @@
+3 3.25 1997 Titanic
+0 2.2 1988 Die hard
+5 1 2023 The last of us
+6 2.15 1993 Jurassic Park
+4 2 1996 Scream
+3 2 2004 The notebook
+4 1.9 1991 The silence of the lambs
