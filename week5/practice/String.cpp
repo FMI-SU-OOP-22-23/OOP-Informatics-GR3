@@ -61,7 +61,6 @@ void String::setString(const char* str) {
   size = strlen(str) + 1;
   buf = new char[size];
   strcpy(buf, str);
-  buf[size] = '\0';
 }
 
 int main() {

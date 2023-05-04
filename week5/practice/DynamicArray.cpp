@@ -185,7 +185,7 @@ int main() {
 
   DynamicArray arr;
   for (int i = 0; i < 10; ++i) {
-    arr.pushBack(random() % 1997 + 1);
+    arr.pushBack(rand() % 1997 + 1);
   }
   arr.printInfo();
 
@@ -200,7 +200,7 @@ int main() {
   arr.printInfo();
 
   for (int i = 0; i < 5; ++i) {
-    arr.pushBack(random() % 1997 + 1);
+    arr.pushBack(rand() % 1997 + 1);
   }
   arr.printInfo();
 
